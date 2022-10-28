@@ -1,0 +1,59 @@
+
+jiaLiang     23
+wangChen     24
+jiaMing      22
+wangJie      22
+yuQing       24
+wenZhen      23
+haoNan       25
+luYi         23
+boWen        23
+请按任意键继续. . . 
+
+jiaLiang
+wangChen
+jiaMing
+wangJie
+yuQing
+wenZhen
+haoNan
+luYi
+boWen
+请按任意键继续. . . 
+
+boWen
+haoNan
+jiaLiang
+jiaMing
+luYi
+wangChen
+wangJie
+wenZhen
+yuQing
+请按任意键继续. . . 
+
+23
+24
+22
+22
+24
+23
+25
+23
+23
+Your friends' age is between 22 and 25
+请按任意键继续. . . 
+
+24
+25
+22
+23
+请按任意键继续. . . 
+
+jiaMing      22
+wangJie      22
+xiaomi       18
+请按任意键继续. . . 
+
+
+进程已结束,退出代码0

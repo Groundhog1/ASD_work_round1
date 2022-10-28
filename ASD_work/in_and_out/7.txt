@@ -1,0 +1,11 @@
+字符串HELLO word HellO world helloword      hello
+单词hello
+3
+
+
+
+字符串HEllo world wold ld
+单词ld
+1
+
+进程已结束,退出代码0

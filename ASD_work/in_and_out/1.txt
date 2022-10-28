@@ -1,0 +1,20 @@
+What's your name郑佳垚
+please input your number102201631
+your class?6
+你的性别男
+你是 郑佳垚 ，学号为 102201631 ，是来自 6 班的 男 生
+
+
+
+What's your namexxx
+please input your number12345678
+your class?180
+你的性别robot
+your class is wrong, input again
+your class is wrong, input again
+your class is wrong, input again6
+请输入合法的性别nan
+请输入合法的性别男
+你是 xxx ，学号为 12345678 ，是来自 6 班的 男 生
+
+进程已结束,退出代码0
